@@ -1,4 +1,5 @@
 
+#use lipo -info #path((*.app/Frameworks/libswiftCore.dylib)) to check existing arch for swiftlibcore
 
 function stripArm64e()
 {
