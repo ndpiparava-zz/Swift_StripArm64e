@@ -2,4 +2,4 @@
 
 2.The App Store and TestFlight don't accept submissions containing arm64e.
 
-To remove Arm64e from swiftlib run below script, Please note that change path inside script file.
+To remove Arm64e from swiftlib run stripArm64e.sh script from terminal, Please note that change path inside script file.
